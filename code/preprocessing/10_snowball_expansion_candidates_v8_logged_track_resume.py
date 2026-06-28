@@ -79,7 +79,7 @@ from spotipy.exceptions import SpotifyException
 # ---------------------------------------------------------
 
 HEADERS = {
-    "User-Agent": "DASS-Term-Paper-Snowball-Expansion/0.1 (sdnz22@yahoo.com)"
+    "User-Agent": "DASS-Term-Paper-Snowball-Expansion/0.1"
 }
 
 TARGET_COUNTRY_CODE_MB = "GB"
