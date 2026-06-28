@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="node" attr.name="followers" attr.type="long"/>
+<key id="d5" for="node" attr.name="popularity" attr.type="long"/>
+<key id="d4" for="node" attr.name="clean_labels" attr.type="string"/>
+<key id="d3" for="node" attr.name="n_clean_labels" attr.type="long"/>
+<key id="d2" for="node" attr.name="genres" attr.type="string"/>
+<key id="d1" for="node" attr.name="spotify_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="spotify_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="King Krule">
+  <data key="d0">4wyNyxs74Ux8UIDopNjIai</data>
+  <data key="d1">King Krule</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">60</data>
+  <data key="d6">1035756</data>
+</node>
+<node id="Dean Blunt">
+  <data key="d0">5CFSYjc0PAiQvndFjafabk</data>
+  <data key="d1">Dean Blunt</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">66</data>
+  <data key="d6">614429</data>
+</node>
+<node id="bar italia">
+  <data key="d0">6tYmTHApvspl6KAgTfHjAY</data>
+  <data key="d1">bar italia</data>
+  <data key="d2">lo-fi indie</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">41</data>
+  <data key="d6">97985</data>
+</node>
+<node id="Fontaines D.C.">
+  <data key="d0">3SXwqSqAoBz9WCI9PDQzY6</data>
+  <data key="d1">Fontaines D.C.</data>
+  <data key="d2">post-punk</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">71</data>
+  <data key="d6">1390518</data>
+</node>
+<node id="Wet Leg">
+  <data key="d0">2TwOrUcYnAlIiKmVQkkoSZ</data>
+  <data key="d1">Wet Leg</data>
+  <data key="d2">indie rock; indie</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">65</data>
+  <data key="d6">977254</data>
+</node>
+<node id="Wolf Alice">
+  <data key="d0">3btzEQD6sugImIHPMRgkwV</data>
+  <data key="d1">Wolf Alice</data>
+  <data key="d2">indie</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">64</data>
+  <data key="d6">963062</data>
+</node>
+<node id="FKA twigs">
+  <data key="d0">6nB0iY1cjSY1KyhYyuIIKH</data>
+  <data key="d1">FKA twigs</data>
+  <data key="d2">art pop; alternative r&amp;b</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">65</data>
+  <data key="d6">1565979</data>
+</node>
+<node id="A. G. Cook">
+  <data key="d0">335TWGWGFan4vaacJzSiU8</data>
+  <data key="d1">A. G. Cook</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">53</data>
+  <data key="d6">239379</data>
+</node>
+<node id="SOPHIE">
+  <data key="d0">5a2w2tgpLwv26BYJf2qYwu</data>
+  <data key="d1">SOPHIE</data>
+  <data key="d2">hyperpop; art pop; experimental</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">58</data>
+  <data key="d6">698755</data>
+</node>
+<node id="Charli XCX">
+  <data key="d0">25uiPmTg16RbhZWAqwLBy5</data>
+  <data key="d1">Charli xcx</data>
+  <data key="d2">hyperpop; art pop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">83</data>
+  <data key="d6">7146326</data>
+</node>
+<node id="PinkPantheress">
+  <data key="d0">78rUTD7y6Cy67W1RVzYs7t</data>
+  <data key="d1">PinkPantheress</data>
+  <data key="d2">bedroom pop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">82</data>
+  <data key="d6">6255277</data>
+</node>
+<node id="Mount Kimbie">
+  <data key="d0">3NUtpWpGDoffm3RCGhSHtl</data>
+  <data key="d1">Mount Kimbie</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">49</data>
+  <data key="d6">361920</data>
+</node>
+<node id="Vegyn">
+  <data key="d0">5iUnvXddCpOrbWKm7QMr6o</data>
+  <data key="d1">Vegyn</data>
+  <data key="d2">idm; experimental hip hop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">56</data>
+  <data key="d6">183304</data>
+</node>
+<node id="mark william lewis">
+  <data key="d0">2r5elgyPQ19vDG3xSQn39k</data>
+  <data key="d1">mark william lewis</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">44</data>
+  <data key="d6">41921</data>
+</node>
+<node id="the sound chalk makes">
+  <data key="d0">4uiFRdH1ESOicHwBuTbsY5</data>
+  <data key="d1">the sound chalk makes</data>
+  <data key="d2">hyperpop; electroclash</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">34</data>
+  <data key="d6">6902</data>
+</node>
+<node id="Bassvictim">
+  <data key="d0">7f8ydynRRnrJBqWxevKLcM</data>
+  <data key="d1">Bassvictim</data>
+  <data key="d2">electroclash; hyperpop; witch house</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">56</data>
+  <data key="d6">139724</data>
+</node>
+<node id="fakemink">
+  <data key="d0">0qc4BFxcwRFZfevTck4fOi</data>
+  <data key="d1">fakemink</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">75</data>
+  <data key="d6">556453</data>
+</node>
+<node id="Feng">
+  <data key="d0">278vNvolx8H3sQJ2hgOMnh</data>
+  <data key="d1">Feng</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">63</data>
+  <data key="d6">264336</data>
+</node>
+<node id="ok">
+  <data key="d0">1uiGVqVPmQxy5lD8SHGAy5</data>
+  <data key="d1">ok</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">47</data>
+  <data key="d6">22035</data>
+</node>
+<node id="Fimiguerrero">
+  <data key="d0">4M5b70A8aORXdyJVjRJ8du</data>
+  <data key="d1">Fimiguerrero</data>
+  <data key="d2">alté; rage rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">62</data>
+  <data key="d6">193078</data>
+</node>
+<node id="Rico Ace">
+  <data key="d0">4sY0lTSkfDMMt27cVvFT6o</data>
+  <data key="d1">Rico Ace</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">73</data>
+  <data key="d6">127435</data>
+</node>
+<node id="EsDeeKid">
+  <data key="d0">0EyhkwP3UnwGFBy6xwKjSy</data>
+  <data key="d1">EsDeeKid</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">78</data>
+  <data key="d6">1933548</data>
+</node>
+<node id="Saam Sultan">
+  <data key="d0">3SgILNFTHSwmacOonffY93</data>
+  <data key="d1">Saam Sultan</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">50</data>
+  <data key="d6">54403</data>
+</node>
+<node id="Buckshot">
+  <data key="d0">0HPG2EIdGCP6gjXW0KzrJq</data>
+  <data key="d1">Buckshot</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">65</data>
+  <data key="d6">142717</data>
+</node>
+<node id="Iglooghost">
+  <data key="d0">7LCDnUQYE07fnKbo46SVLB</data>
+  <data key="d1">Iglooghost</data>
+  <data key="d2">idm; glitch; hyperpop; experimental</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">36</data>
+  <data key="d6">116614</data>
+</node>
+<node id="BABii">
+  <data key="d0">30qGwXnygZNCzxjN7QsIR0</data>
+  <data key="d1">BABii</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">26</data>
+  <data key="d6">23096</data>
+</node>
+<node id="Pholo">
+  <data key="d0">53Wk6hhoFwz3REXaZ2XW2a</data>
+  <data key="d1">Pholo</data>
+  <data key="d2">witch house</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">20</data>
+  <data key="d6">6755</data>
+</node>
+<node id="Burial">
+  <data key="d0">0uCCBpmg6MrPb1KY2msceF</data>
+  <data key="d1">Burial</data>
+  <data key="d2">idm; ambient</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">49</data>
+  <data key="d6">541961</data>
+</node>
+<node id="Floating Points">
+  <data key="d0">2AR42Ur9PcchQDtEdwkv4L</data>
+  <data key="d1">Floating Points</data>
+  <data key="d2">idm; ambient jazz; gnawa</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">50</data>
+  <data key="d6">415530</data>
+</node>
+<node id="Squarepusher">
+  <data key="d0">4mtHSXwIHihO6MWNq5Qoko</data>
+  <data key="d1">Squarepusher</data>
+  <data key="d2">idm; breakcore; glitch; jungle</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">42</data>
+  <data key="d6">280637</data>
+</node>
+<node id="µ-Ziq">
+  <data key="d0">7AiamoV760pPGGM5PbOC6X</data>
+  <data key="d1">µ-Ziq</data>
+  <data key="d2">idm; glitch; breakcore; ambient; experimental</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">38</data>
+  <data key="d6">106375</data>
+</node>
+<node id="shame">
+  <data key="d0">4IeWU3NYBI9mISFVhzXG8f</data>
+  <data key="d1">shame</data>
+  <data key="d2">post-punk</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">41</data>
+  <data key="d6">201105</data>
+</node>
+<node id="Squid">
+  <data key="d0">685XjGzGztyivfR3fAjoxo</data>
+  <data key="d1">Squid</data>
+  <data key="d2">post-punk; art rock; noise rock</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">38</data>
+  <data key="d6">178547</data>
+</node>
+<node id="black midi">
+  <data key="d0">7Hvq85OU8T7Hsd63zNBwaL</data>
+  <data key="d1">black midi</data>
+  <data key="d2">noise rock; art rock; post-punk; math rock</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">44</data>
+  <data key="d6">323632</data>
+</node>
+<node id="Black Country New Road">
+  <data key="d0">3PP6ghmOlDl2jaKaH0avUN</data>
+  <data key="d1">Black Country, New Road</data>
+  <data key="d2">art rock; post-rock</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">57</data>
+  <data key="d6">487544</data>
+</node>
+<node id="Geordie Greep">
+  <data key="d0">65Msz2E34NUtbjEbsrsJlJ</data>
+  <data key="d1">Geordie Greep</data>
+  <data key="d2">art rock</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">45</data>
+  <data key="d6">134835</data>
+</node>
+<node id="NINA">
+  <data key="d0">53O83dY0rBGmnM4gV7Sqyr</data>
+  <data key="d1">NINA</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">31</data>
+  <data key="d6">17792</data>
+</node>
+<node id="Sokora Violetov">
+  <data key="d0">3PVUWPpPcUtoX3qeKwGJA6</data>
+  <data key="d1">Sokora Violetov</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">22</data>
+  <data key="d6">2622</data>
+</node>
+<node id="The Crying Nudes">
+  <data key="d0">3tM7dj8ztmzKcugbIVMxy0</data>
+  <data key="d1">The Crying Nudes</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">42</data>
+  <data key="d6">43388</data>
+</node>
+<node id="Joanne Robertson">
+  <data key="d0">4MdQ9btIlh6rzIMA19tu3L</data>
+  <data key="d1">Joanne Robertson</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">46</data>
+  <data key="d6">50907</data>
+</node>
+<node id="Inga Copeland">
+  <data key="d0">1ZdoULgEhBXOV2g3j3Zhhi</data>
+  <data key="d1">Inga Copeland</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">42</data>
+  <data key="d6">32147</data>
+</node>
+<node id="Babyfather">
+  <data key="d0">3DmDJOQgrwlq8MxXGLeFvA</data>
+  <data key="d1">Babyfather</data>
+  <data key="d2">experimental hip hop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">44</data>
+  <data key="d6">95174</data>
+</node>
+<node id="Hype Williams">
+  <data key="d0">3SMaI6j8ObewCWPQFwfvui</data>
+  <data key="d1">Hype Williams</data>
+  <data key="d2">vaporwave</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">35</data>
+  <data key="d6">63430</data>
+</node>
+<node id="Palmistry">
+  <data key="d0">4qm6T9pMFiyCDHFTHZchrY</data>
+  <data key="d1">Palmistry</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">33</data>
+  <data key="d6">33475</data>
+</node>
+<node id="Yawning Portal">
+  <data key="d0">68fiKpJLoB94P1fLMZTZbC</data>
+  <data key="d1">Yawning Portal</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">27</data>
+  <data key="d6">14975</data>
+</node>
+<node id="POiSON ANNA">
+  <data key="d0">1qC3BErhNjJ0AP7Ddg4YfD</data>
+  <data key="d1">POiSON ANNA</data>
+  <data key="d2">indie dance</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">32</data>
+  <data key="d6">5993</data>
+</node>
+<node id="TYSON">
+  <data key="d0">10SYd6NatYImOQTxA88jdn</data>
+  <data key="d1">TYSON</data>
+  <data key="d2">uk r&amp;b</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">49</data>
+  <data key="d6">13169</data>
+</node>
+<node id="GAIKA">
+  <data key="d0">543QE1sqcqcNAL8JSK4Jzd</data>
+  <data key="d1">GAIKA</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">28</data>
+  <data key="d6">24992</data>
+</node>
+<node id="Horsey">
+  <data key="d0">3ey9OSASkq8HNPh0u7jjfO</data>
+  <data key="d1">Horsey</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">25</data>
+  <data key="d6">26141</data>
+</node>
+<node id="James Blake">
+  <data key="d0">53KwLdlmrlCelAZMaLVZqU</data>
+  <data key="d1">James Blake</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">68</data>
+  <data key="d6">1663243</data>
+</node>
+<node id="Nilüfer Yanya">
+  <data key="d0">09kXLeOXRyfNQMXRaDO4qA</data>
+  <data key="d1">Nilüfer Yanya</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">47</data>
+  <data key="d6">263923</data>
+</node>
+<node id="Andrea Balency">
+  <data key="d0">19WKgM9hPs6GwwBciAyxYF</data>
+  <data key="d1">Andrea Balency</data>
+  <data key="d2">mexican indie; latin indie</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">27</data>
+  <data key="d6">5855</data>
+</node>
+<node id="DJ Escrow">
+  <data key="d0">4i5UOIADuSXTKilet78GPV</data>
+  <data key="d1">DJ Escrow</data>
+  <data key="d2">experimental hip hop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">20</data>
+  <data key="d6">4322</data>
+</node>
+<node id="Drug Store Romeos">
+  <data key="d0">7MMjkDVrjxW9iObeZeeejh</data>
+  <data key="d1">Drug Store Romeos</data>
+  <data key="d2">lo-fi indie</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">46</data>
+  <data key="d6">48492</data>
+</node>
+<node id="Jamie Isaac">
+  <data key="d0">3s2jqlVaDwlRKk3mF7WT2b</data>
+  <data key="d1">Jamie Isaac</data>
+  <data key="d2">indie soul</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">30</data>
+  <data key="d6">41222</data>
+</node>
+<node id="Katy J Pearson">
+  <data key="d0">6xBsaFua2lgAUlNv8Yh0nQ</data>
+  <data key="d1">Katy J Pearson</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">36</data>
+  <data key="d6">35021</data>
+</node>
+<node id="Mica Levi">
+  <data key="d0">29LOCR81IrdEJjCAeCEOU3</data>
+  <data key="d1">Mica Levi</data>
+  <data key="d2">score; soundtrack</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">30</data>
+  <data key="d6">51055</data>
+</node>
+<node id="Nova Varnrable">
+  <data key="d0">7eXnw7Cn85i2s9aYNAERcR</data>
+  <data key="d1">Nova Varnrable</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">30</data>
+  <data key="d6">2488</data>
+</node>
+<node id="Novelist">
+  <data key="d0">4OPTZC24954HYBeHKeoLSc</data>
+  <data key="d1">Novelist</data>
+  <data key="d2">grime; uk grime</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">41</data>
+  <data key="d6">42521</data>
+</node>
+<node id="Sarah Meth">
+  <data key="d0">2cveuRnx0cbS41GQTBcuRz</data>
+  <data key="d1">Sarah Meth</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">22</data>
+  <data key="d6">6577</data>
+</node>
+<node id="Skepta">
+  <data key="d0">2p1fiYHYiXz9qi0JJyxBzN</data>
+  <data key="d1">Skepta</data>
+  <data key="d2">grime; uk grime</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">75</data>
+  <data key="d6">1777186</data>
+</node>
+<node id="Shygirl">
+  <data key="d0">3M3wTTCDwicRubwMyHyEDy</data>
+  <data key="d1">Shygirl</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">55</data>
+  <data key="d6">377442</data>
+</node>
+<node id="Rina Sawayama">
+  <data key="d0">2KEqzdPS7M5YwGmiuPTdr5</data>
+  <data key="d1">Rina Sawayama</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">54</data>
+  <data key="d6">1056219</data>
+</node>
+<node id="Finn Keane">
+  <data key="d0">2IRRnJ7AkcLnqMX8jvQqrW</data>
+  <data key="d1">Finn Keane</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">43</data>
+  <data key="d6">46095</data>
+</node>
+<node id="Thy Slaughter">
+  <data key="d0">4tXmMY3u0qbzec7aocHPPt</data>
+  <data key="d1">Thy Slaughter</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">31</data>
+  <data key="d6">14882</data>
+</node>
+<node id="Sam Gellaitry">
+  <data key="d0">07UJz804RJxqNvxFXC3h9H</data>
+  <data key="d1">Sam Gellaitry</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">58</data>
+  <data key="d6">212996</data>
+</node>
+<node id="SONIKKU">
+  <data key="d0">31iYRMOM5mUFDxPMMljOZ9</data>
+  <data key="d1">SONIKKU</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">34</data>
+  <data key="d6">20171</data>
+</node>
+<node id="Broadside Hacks">
+  <data key="d0">3hOsP3tSu2uLW3DKug9U3J</data>
+  <data key="d1">Broadside Hacks</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">3</data>
+  <data key="d6">1031</data>
+</node>
+<node id="H. Hawkline">
+  <data key="d0">7FmM0XgimRvS48CfObh2ht</data>
+  <data key="d1">H. Hawkline</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">35</data>
+  <data key="d6">10249</data>
+</node>
+<node id="Max Tundra">
+  <data key="d0">08DpSTsNFBf1PxTm9lwpXb</data>
+  <data key="d1">Max Tundra</data>
+  <data key="d2">idm</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">11</data>
+  <data key="d6">5274</data>
+</node>
+<node id="Mura Masa">
+  <data key="d0">5Q81rlcTFh3k6DQJXPdsot</data>
+  <data key="d1">Mura Masa</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">59</data>
+  <data key="d6">727345</data>
+</node>
+<node id="Sampha">
+  <data key="d0">2WoVwexZuODvclzULjPQtm</data>
+  <data key="d1">Sampha</data>
+  <data key="d2">indie soul</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">62</data>
+  <data key="d6">912667</data>
+</node>
+<node id="Auntie Flo">
+  <data key="d0">6XYOjW5wxf5V9hwAR58o4d</data>
+  <data key="d1">Auntie Flo</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">30</data>
+  <data key="d6">21580</data>
+</node>
+<node id="Azekel">
+  <data key="d0">446nYwuXzCKnDwZUu4kGQA</data>
+  <data key="d1">Azekel</data>
+  <data key="d2">trip hop; alté</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">42</data>
+  <data key="d6">23760</data>
+</node>
+<node id="Bert Ussher">
+  <data key="d0">5wrKifbC5rq1uK0Dqsa6uM</data>
+  <data key="d1">Bert Ussher</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">1</data>
+  <data key="d6">152</data>
+</node>
+<node id="GLOR1A">
+  <data key="d0">2Xf1wbdyd9UKB8TFt95LTK</data>
+  <data key="d1">GLOR1A</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">17</data>
+  <data key="d6">620</data>
+</node>
+<node id="George Daniel">
+  <data key="d0">52pQ22DziZVOOeL1mCmccT</data>
+  <data key="d1">George Daniel</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">38</data>
+  <data key="d6">18510</data>
+</node>
+<node id="Hannah Diamond">
+  <data key="d0">3sXErEOw7EmO6Sj7EgjHdU</data>
+  <data key="d1">Hannah Diamond</data>
+  <data key="d2">hyperpop; bubblegum pop</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">36</data>
+  <data key="d6">116803</data>
+</node>
+<node id="Jelani Blackman">
+  <data key="d0">0fjaIHFhiW9vWX8bncZCOo</data>
+  <data key="d1">Jelani Blackman</data>
+  <data key="d2">grime</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">38</data>
+  <data key="d6">35029</data>
+</node>
+<node id="Jon Hopkins">
+  <data key="d0">7yxi31szvlbwvKq9dYOmFI</data>
+  <data key="d1">Jon Hopkins</data>
+  <data key="d2">idm; ambient</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">55</data>
+  <data key="d6">588811</data>
+</node>
+<node id="Koreless">
+  <data key="d0">3TsEEdpuuCN1G0dPxV4uOA</data>
+  <data key="d1">Koreless</data>
+  <data key="d2">idm</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">39</data>
+  <data key="d6">58196</data>
+</node>
+<node id="Louis VI">
+  <data key="d0">7tQDfSGEfN1CJcCmnnN4FV</data>
+  <data key="d1">Louis VI</data>
+  <data key="d2">jazz rap</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">28</data>
+  <data key="d6">10226</data>
+</node>
+<node id="Orbury Common">
+  <data key="d0">5mObFLIzPS4XGDTkNVaQrg</data>
+  <data key="d1">Orbury Common</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">4</data>
+  <data key="d6">1096</data>
+</node>
+<node id="Pocket">
+  <data key="d0">2VizsdU66dsMBEg8h4Vkzo</data>
+  <data key="d1">Pocket</data>
+  <data key="d2">stutter house; uk garage</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">32</data>
+  <data key="d6">9819</data>
+</node>
+<node id="Stone Club">
+  <data key="d0">4mZVIvEX3d2fHUKqiwJN8r</data>
+  <data key="d1">Stone Club</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">1</data>
+  <data key="d6">149</data>
+</node>
+<node id="The 1975">
+  <data key="d0">3mIj9lX2MWuHmhNCA7LSCW</data>
+  <data key="d1">The 1975</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">77</data>
+  <data key="d6">8518946</data>
+</node>
+<node id="The Japanese House">
+  <data key="d0">3IunaFjvNKj98JW89JYv9u</data>
+  <data key="d1">The Japanese House</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">58</data>
+  <data key="d6">824877</data>
+</node>
+<node id="Throwing Snow">
+  <data key="d0">0Qur5LqqAVVunjY2PnjhUp</data>
+  <data key="d1">Throwing Snow</data>
+  <data key="d2">idm</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">35</data>
+  <data key="d6">46611</data>
+</node>
+<node id="Tourist">
+  <data key="d0">2ABBMkcUeM9hdpimo86mo6</data>
+  <data key="d1">Tourist</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">51</data>
+  <data key="d6">199770</data>
+</node>
+<node id="Two Shell">
+  <data key="d0">4mcHKwboFDmpDBQ4fiOrf3</data>
+  <data key="d1">Two Shell</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">35</data>
+  <data key="d6">42858</data>
+</node>
+<node id="yunè pinku">
+  <data key="d0">2sY4BbYrbvNVgsNzo6HddD</data>
+  <data key="d1">yunè pinku</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">40</data>
+  <data key="d6">36277</data>
+</node>
+<node id="Fred again..">
+  <data key="d0">4oLeXFyACqeem2VImYeBFe</data>
+  <data key="d1">Fred again..</data>
+  <data key="d2">stutter house; house; edm</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">78</data>
+  <data key="d6">2655625</data>
+</node>
+<node id="Dopamine">
+  <data key="d0">3Edve4VIATi0OZngclQlkN</data>
+  <data key="d1">Dopamine</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">62</data>
+  <data key="d6">7982</data>
+</node>
+<node id="Richard Norris">
+  <data key="d0">4vJGULmzR15eHf6zn6u29q</data>
+  <data key="d1">Richard Norris</data>
+  <data key="d2">ambient</data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">18</data>
+  <data key="d6">2349</data>
+</node>
+<node id="Skream &amp; Benga">
+  <data key="d0">6TaOlqfpegMP5IpO3fZo38</data>
+  <data key="d1">Skream &amp; Benga</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">36</data>
+  <data key="d6">5836</data>
+</node>
+<node id="THAT KIND">
+  <data key="d0">4zxtCQ4mwZH38FVCSbpqlZ</data>
+  <data key="d1">THAT KIND</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">44</data>
+  <data key="d6">16111</data>
+</node>
+</graph></graphml>

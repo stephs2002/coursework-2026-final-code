@@ -1,0 +1,2721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="label_jaccard_similarity" attr.type="double"/>
+<key id="d8" for="edge" attr.name="shared_labels" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="followers" attr.type="long"/>
+<key id="d5" for="node" attr.name="popularity" attr.type="long"/>
+<key id="d4" for="node" attr.name="labels" attr.type="string"/>
+<key id="d3" for="node" attr.name="n_labels" attr.type="long"/>
+<key id="d2" for="node" attr.name="genres" attr.type="string"/>
+<key id="d1" for="node" attr.name="spotify_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="spotify_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="King Krule">
+  <data key="d0">4wyNyxs74Ux8UIDopNjIai</data>
+  <data key="d1">King Krule</data>
+  <data key="d2"></data>
+  <data key="d3">6</data>
+  <data key="d4">ato records; lex records; true panther sounds; untitled recs; warp records; xl recordings</data>
+  <data key="d5">60</data>
+  <data key="d6">1035756</data>
+</node>
+<node id="Dean Blunt">
+  <data key="d0">5CFSYjc0PAiQvndFjafabk</data>
+  <data key="d1">Dean Blunt</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">hype williams; l a club resource; rough trade; world music</data>
+  <data key="d5">66</data>
+  <data key="d6">614429</data>
+</node>
+<node id="bar italia">
+  <data key="d0">6tYmTHApvspl6KAgTfHjAY</data>
+  <data key="d1">bar italia</data>
+  <data key="d2">lo-fi indie</data>
+  <data key="d3">4</data>
+  <data key="d4">bar italia; many hats distribution; matador; world music</data>
+  <data key="d5">41</data>
+  <data key="d6">97985</data>
+</node>
+<node id="Fontaines D.C.">
+  <data key="d0">3SXwqSqAoBz9WCI9PDQzY6</data>
+  <data key="d1">Fontaines D.C.</data>
+  <data key="d2">post-punk</data>
+  <data key="d3">3</data>
+  <data key="d4">chrysalis records; partisan records; xl recordings</data>
+  <data key="d5">71</data>
+  <data key="d6">1390518</data>
+</node>
+<node id="Wet Leg">
+  <data key="d0">2TwOrUcYnAlIiKmVQkkoSZ</data>
+  <data key="d1">Wet Leg</data>
+  <data key="d2">indie rock; indie</data>
+  <data key="d3">1</data>
+  <data key="d4">domino recording</data>
+  <data key="d5">65</data>
+  <data key="d6">977254</data>
+</node>
+<node id="Wolf Alice">
+  <data key="d0">3btzEQD6sugImIHPMRgkwV</data>
+  <data key="d1">Wolf Alice</data>
+  <data key="d2">indie</data>
+  <data key="d3">3</data>
+  <data key="d4">dirty hit; polydor records; triple j</data>
+  <data key="d5">64</data>
+  <data key="d6">963062</data>
+</node>
+<node id="FKA twigs">
+  <data key="d0">6nB0iY1cjSY1KyhYyuIIKH</data>
+  <data key="d1">FKA twigs</data>
+  <data key="d2">art pop; alternative r&amp;b</data>
+  <data key="d3">4</data>
+  <data key="d4">atlantic records; parlophone uk; relentless records; young</data>
+  <data key="d5">65</data>
+  <data key="d6">1565979</data>
+</node>
+<node id="A. G. Cook">
+  <data key="d0">335TWGWGFan4vaacJzSiU8</data>
+  <data key="d1">A. G. Cook</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">12</data>
+  <data key="d4">activia benz; atlantic records; atlantic records uk; domino recording; glassnote vmg; luckyme; new alias; oklou; pc music; perpetual novice; pias; warp records</data>
+  <data key="d5">53</data>
+  <data key="d6">239379</data>
+</node>
+<node id="SOPHIE">
+  <data key="d0">5a2w2tgpLwv26BYJf2qYwu</data>
+  <data key="d1">SOPHIE</data>
+  <data key="d2">hyperpop; art pop; experimental</data>
+  <data key="d3">8</data>
+  <data key="d4">babynymph; bella union; capitol records; dmoth; huntleys palmers; innovative leisure; numbers; transgressive</data>
+  <data key="d5">58</data>
+  <data key="d6">698755</data>
+</node>
+<node id="Charli XCX">
+  <data key="d0">25uiPmTg16RbhZWAqwLBy5</data>
+  <data key="d1">Charli xcx</data>
+  <data key="d2">hyperpop; art pop</data>
+  <data key="d3">23</data>
+  <data key="d4">a24 music; arista france; asylum; asylum atlantic; asylum records; atlantic records; atlantic records uk; big beat records; bighit music; bmg rights management us; dirty hit; dog show records; parlophone france; pc music; perpetual novice; polydor records; positiva virgin; project gold; sony music entertainment; this is music; vroom vroom recordings; wm uk; year0001</data>
+  <data key="d5">83</data>
+  <data key="d6">7146326</data>
+</node>
+<node id="PinkPantheress">
+  <data key="d0">78rUTD7y6Cy67W1RVzYs7t</data>
+  <data key="d1">PinkPantheress</data>
+  <data key="d2">bedroom pop</data>
+  <data key="d3">6</data>
+  <data key="d4">atlantic records; emi recorded music australia pty; parlophone uk; polydor records; source music; warner records</data>
+  <data key="d5">82</data>
+  <data key="d6">6255277</data>
+</node>
+<node id="Mount Kimbie">
+  <data key="d0">3NUtpWpGDoffm3RCGhSHtl</data>
+  <data key="d1">Mount Kimbie</data>
+  <data key="d2"></data>
+  <data key="d3">7</data>
+  <data key="d4">future classic; hotflush recordings; k7 records; method; ninja tune; warp; warp records</data>
+  <data key="d5">49</data>
+  <data key="d6">361920</data>
+</node>
+<node id="Vegyn">
+  <data key="d0">5iUnvXddCpOrbWKm7QMr6o</data>
+  <data key="d1">Vegyn</data>
+  <data key="d2">idm; experimental hip hop</data>
+  <data key="d3">7</data>
+  <data key="d4">domino recording; ed banger records; parlophone france; perfect branch; plz make it ruins; polydor records; sassy 009</data>
+  <data key="d5">56</data>
+  <data key="d6">183304</data>
+</node>
+<node id="mark william lewis">
+  <data key="d0">2r5elgyPQ19vDG3xSQn39k</data>
+  <data key="d1">mark william lewis</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">mark william lewis; partisan records; scenic route records</data>
+  <data key="d5">44</data>
+  <data key="d6">41921</data>
+</node>
+<node id="the sound chalk makes">
+  <data key="d0">4uiFRdH1ESOicHwBuTbsY5</data>
+  <data key="d1">the sound chalk makes</data>
+  <data key="d2">hyperpop; electroclash</data>
+  <data key="d3">5</data>
+  <data key="d4">2201516 records dk; boyfriend rehab; bratz kabir parekh rae mulla mubaraq jay mehta; mockbook hair; rae mulla bratz</data>
+  <data key="d5">34</data>
+  <data key="d6">6902</data>
+</node>
+<node id="Bassvictim">
+  <data key="d0">7f8ydynRRnrJBqWxevKLcM</data>
+  <data key="d1">Bassvictim</data>
+  <data key="d2">electroclash; hyperpop; witch house</data>
+  <data key="d3">3</data>
+  <data key="d4">kmif; twin; votb</data>
+  <data key="d5">56</data>
+  <data key="d6">139724</data>
+</node>
+<node id="fakemink">
+  <data key="d0">0qc4BFxcwRFZfevTck4fOi</data>
+  <data key="d1">fakemink</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">3</data>
+  <data key="d4">artist partner group; etnaveravela; world war x</data>
+  <data key="d5">75</data>
+  <data key="d6">556453</data>
+</node>
+<node id="Feng">
+  <data key="d0">278vNvolx8H3sQJ2hgOMnh</data>
+  <data key="d1">Feng</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">1</data>
+  <data key="d4">regularisperfect</data>
+  <data key="d5">63</data>
+  <data key="d6">264336</data>
+</node>
+<node id="ok">
+  <data key="d0">1uiGVqVPmQxy5lD8SHGAy5</data>
+  <data key="d1">ok</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">1</data>
+  <data key="d4">artist partner group</data>
+  <data key="d5">47</data>
+  <data key="d6">22035</data>
+</node>
+<node id="Fimiguerrero">
+  <data key="d0">4M5b70A8aORXdyJVjRJ8du</data>
+  <data key="d1">Fimiguerrero</data>
+  <data key="d2">alté; rage rap</data>
+  <data key="d3">6</data>
+  <data key="d4">10v; 10v elysium; 1312104 records dk; knucks; lizzy records; tribe</data>
+  <data key="d5">62</data>
+  <data key="d6">193078</data>
+</node>
+<node id="Rico Ace">
+  <data key="d0">4sY0lTSkfDMMt27cVvFT6o</data>
+  <data key="d1">Rico Ace</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">6441124 records dk; 6637415 records dk; stay peckish records</data>
+  <data key="d5">73</data>
+  <data key="d6">127435</data>
+</node>
+<node id="EsDeeKid">
+  <data key="d0">0EyhkwP3UnwGFBy6xwKjSy</data>
+  <data key="d1">EsDeeKid</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">6441124 records dk; 6441124 records dk2; stay peckish records</data>
+  <data key="d5">78</data>
+  <data key="d6">1933548</data>
+</node>
+<node id="Saam Sultan">
+  <data key="d0">3SgILNFTHSwmacOonffY93</data>
+  <data key="d1">Saam Sultan</data>
+  <data key="d2">cloud rap</data>
+  <data key="d3">3</data>
+  <data key="d4">cwr; darkroom records; saam sultan</data>
+  <data key="d5">50</data>
+  <data key="d6">54403</data>
+</node>
+<node id="Buckshot">
+  <data key="d0">0HPG2EIdGCP6gjXW0KzrJq</data>
+  <data key="d1">Buckshot</data>
+  <data key="d2"></data>
+  <data key="d3">1</data>
+  <data key="d4">haunted mound</data>
+  <data key="d5">65</data>
+  <data key="d6">142717</data>
+</node>
+<node id="Iglooghost">
+  <data key="d0">7LCDnUQYE07fnKbo46SVLB</data>
+  <data key="d1">Iglooghost</data>
+  <data key="d2">idm; glitch; hyperpop; experimental</data>
+  <data key="d3">5</data>
+  <data key="d4">acid palace recordings; brainfeeder; gloo; kai whiston; luckyme</data>
+  <data key="d5">36</data>
+  <data key="d6">116614</data>
+</node>
+<node id="BABii">
+  <data key="d0">30qGwXnygZNCzxjN7QsIR0</data>
+  <data key="d1">BABii</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">7</data>
+  <data key="d4">alcopop; babii; boxset; gloo; jianbo; one little independent records; strap originals</data>
+  <data key="d5">26</data>
+  <data key="d6">23096</data>
+</node>
+<node id="Pholo">
+  <data key="d0">53Wk6hhoFwz3REXaZ2XW2a</data>
+  <data key="d1">Pholo</data>
+  <data key="d2">witch house</data>
+  <data key="d3">12</data>
+  <data key="d4">gloo; hnrk; kareful; kareful and pholo; liquid ritual; pholo; plasma abuse; spider circle; stolen noise; synes; terrorhythm recordings; vibe digital</data>
+  <data key="d5">20</data>
+  <data key="d6">6755</data>
+</node>
+<node id="Burial">
+  <data key="d0">0uCCBpmg6MrPb1KY2msceF</data>
+  <data key="d1">Burial</data>
+  <data key="d2">idm; ambient</data>
+  <data key="d3">7</data>
+  <data key="d4">dekmantel; fabric records; hyperdub; keysound; nonplus records; text records; xl recordings</data>
+  <data key="d5">49</data>
+  <data key="d6">541961</data>
+</node>
+<node id="Floating Points">
+  <data key="d0">2AR42Ur9PcchQDtEdwkv4L</data>
+  <data key="d1">Floating Points</data>
+  <data key="d2">idm; ambient jazz; gnawa</data>
+  <data key="d3">4</data>
+  <data key="d4">border community; late night tales; ninja tune; pluto</data>
+  <data key="d5">50</data>
+  <data key="d6">415530</data>
+</node>
+<node id="Squarepusher">
+  <data key="d0">4mtHSXwIHihO6MWNq5Qoko</data>
+  <data key="d1">Squarepusher</data>
+  <data key="d2">idm; breakcore; glitch; jungle</data>
+  <data key="d3">4</data>
+  <data key="d4">anti epitaph; ed banger records; sony classical; warp records</data>
+  <data key="d5">42</data>
+  <data key="d6">280637</data>
+</node>
+<node id="µ-Ziq">
+  <data key="d0">7AiamoV760pPGGM5PbOC6X</data>
+  <data key="d1">µ-Ziq</data>
+  <data key="d2">idm; glitch; breakcore; ambient; experimental</data>
+  <data key="d3">6</data>
+  <data key="d4">analogical force; balmat; kuboraum editions; lapsus; pem records; planet mu records</data>
+  <data key="d5">38</data>
+  <data key="d6">106375</data>
+</node>
+<node id="shame">
+  <data key="d0">4IeWU3NYBI9mISFVhzXG8f</data>
+  <data key="d1">shame</data>
+  <data key="d2">post-punk</data>
+  <data key="d3">2</data>
+  <data key="d4">dead oceans; fnord</data>
+  <data key="d5">41</data>
+  <data key="d6">201105</data>
+</node>
+<node id="Squid">
+  <data key="d0">685XjGzGztyivfR3fAjoxo</data>
+  <data key="d1">Squid</data>
+  <data key="d2">post-punk; art rock; noise rock</data>
+  <data key="d3">6</data>
+  <data key="d4">bear on a bicycle records endorphins; practise music; prah recordings; speedy wunderground; speedy wunderground pias; warp records</data>
+  <data key="d5">38</data>
+  <data key="d6">178547</data>
+</node>
+<node id="black midi">
+  <data key="d0">7Hvq85OU8T7Hsd63zNBwaL</data>
+  <data key="d1">black midi</data>
+  <data key="d2">noise rock; art rock; post-punk; math rock</data>
+  <data key="d3">1</data>
+  <data key="d4">rough trade</data>
+  <data key="d5">44</data>
+  <data key="d6">323632</data>
+</node>
+<node id="Black Country New Road">
+  <data key="d0">3PP6ghmOlDl2jaKaH0avUN</data>
+  <data key="d1">Black Country, New Road</data>
+  <data key="d2">art rock; post-rock</data>
+  <data key="d3">2</data>
+  <data key="d4">black country new road; ninja tune</data>
+  <data key="d5">57</data>
+  <data key="d6">487544</data>
+</node>
+<node id="Geordie Greep">
+  <data key="d0">65Msz2E34NUtbjEbsrsJlJ</data>
+  <data key="d1">Geordie Greep</data>
+  <data key="d2">art rock</data>
+  <data key="d3">1</data>
+  <data key="d4">rough trade</data>
+  <data key="d5">45</data>
+  <data key="d6">134835</data>
+</node>
+<node id="NINA">
+  <data key="d0">53O83dY0rBGmnM4gV7Sqyr</data>
+  <data key="d1">NINA</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">3141592; many hats distribution; mark william lewis</data>
+  <data key="d5">31</data>
+  <data key="d6">17792</data>
+</node>
+<node id="Sokora Violetov">
+  <data key="d0">3PVUWPpPcUtoX3qeKwGJA6</data>
+  <data key="d1">Sokora Violetov</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">mark william lewis; xquisite releases</data>
+  <data key="d5">22</data>
+  <data key="d6">2622</data>
+</node>
+<node id="The Crying Nudes">
+  <data key="d0">3tM7dj8ztmzKcugbIVMxy0</data>
+  <data key="d1">The Crying Nudes</data>
+  <data key="d2"></data>
+  <data key="d3">1</data>
+  <data key="d4">world music</data>
+  <data key="d5">42</data>
+  <data key="d6">43388</data>
+</node>
+<node id="Joanne Robertson">
+  <data key="d0">4MdQ9btIlh6rzIMA19tu3L</data>
+  <data key="d1">Joanne Robertson</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">ad 93; escho; fire records; world music</data>
+  <data key="d5">46</data>
+  <data key="d6">50907</data>
+</node>
+<node id="Inga Copeland">
+  <data key="d0">1ZdoULgEhBXOV2g3j3Zhhi</data>
+  <data key="d1">Inga Copeland</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">hype williams; modern obscure music; relaxin records; world music</data>
+  <data key="d5">42</data>
+  <data key="d6">32147</data>
+</node>
+<node id="Babyfather">
+  <data key="d0">3DmDJOQgrwlq8MxXGLeFvA</data>
+  <data key="d1">Babyfather</data>
+  <data key="d2">experimental hip hop</data>
+  <data key="d3">1</data>
+  <data key="d4">world music</data>
+  <data key="d5">44</data>
+  <data key="d6">95174</data>
+</node>
+<node id="Hype Williams">
+  <data key="d0">3SMaI6j8ObewCWPQFwfvui</data>
+  <data key="d1">Hype Williams</data>
+  <data key="d2">vaporwave</data>
+  <data key="d3">3</data>
+  <data key="d4">big dada; hype williams; world music</data>
+  <data key="d5">35</data>
+  <data key="d6">63430</data>
+</node>
+<node id="Palmistry">
+  <data key="d0">4qm6T9pMFiyCDHFTHZchrY</data>
+  <data key="d1">Palmistry</data>
+  <data key="d2"></data>
+  <data key="d3">9</data>
+  <data key="d4">6310834 records dk; atlantic records three twenty three music group; dizzy fae; fool s gold records; mixpak big beat; mixpak records; presto; rinse; too lost</data>
+  <data key="d5">33</data>
+  <data key="d6">33475</data>
+</node>
+<node id="Yawning Portal">
+  <data key="d0">68fiKpJLoB94P1fLMZTZbC</data>
+  <data key="d1">Yawning Portal</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">odyxxey; plz make it ruins; slagwerk; yawning portal</data>
+  <data key="d5">27</data>
+  <data key="d6">14975</data>
+</node>
+<node id="POiSON ANNA">
+  <data key="d0">1qC3BErhNjJ0AP7Ddg4YfD</data>
+  <data key="d1">POiSON ANNA</data>
+  <data key="d2">indie dance</data>
+  <data key="d3">3</data>
+  <data key="d4">dinasti3rros; nts; nts recordings</data>
+  <data key="d5">32</data>
+  <data key="d6">5993</data>
+</node>
+<node id="TYSON">
+  <data key="d0">10SYd6NatYImOQTxA88jdn</data>
+  <data key="d1">TYSON</data>
+  <data key="d2">uk r&amp;b</data>
+  <data key="d3">3</data>
+  <data key="d4">eat your own ears recordings; lmp recordings; luckyme</data>
+  <data key="d5">49</data>
+  <data key="d6">13169</data>
+</node>
+<node id="GAIKA">
+  <data key="d0">543QE1sqcqcNAL8JSK4Jzd</data>
+  <data key="d1">GAIKA</data>
+  <data key="d2"></data>
+  <data key="d3">10</data>
+  <data key="d4">big dada; gaika; kro records; lar; mixpak records; naafi; pace records; spatial awareness; the spectacular empire; warp records</data>
+  <data key="d5">28</data>
+  <data key="d6">24992</data>
+</node>
+<node id="Horsey">
+  <data key="d0">3ey9OSASkq8HNPh0u7jjfO</data>
+  <data key="d1">Horsey</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">horsey; untitled recs</data>
+  <data key="d5">25</data>
+  <data key="d6">26141</data>
+</node>
+<node id="James Blake">
+  <data key="d0">53KwLdlmrlCelAZMaLVZqU</data>
+  <data key="d1">James Blake</data>
+  <data key="d2"></data>
+  <data key="d3">19</data>
+  <data key="d4">boom records; cactus jack atlantic; cmyk; cmyk stem good boy stellar; crown and sword; deep medi musik; good boy; hemlock recordings; hessle audio; hotflush recordings; james blake; method; polydor records; quality control music motown records; republic records; republic records polydor records; things we like; umgri interscope; warner records</data>
+  <data key="d5">68</data>
+  <data key="d6">1663243</data>
+</node>
+<node id="Nilüfer Yanya">
+  <data key="d0">09kXLeOXRyfNQMXRaDO4qA</data>
+  <data key="d1">Nilüfer Yanya</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">ato records; liss; ninja tune; triple j</data>
+  <data key="d5">47</data>
+  <data key="d6">263923</data>
+</node>
+<node id="Andrea Balency">
+  <data key="d0">19WKgM9hPs6GwwBciAyxYF</data>
+  <data key="d1">Andrea Balency</data>
+  <data key="d2">mexican indie; latin indie</data>
+  <data key="d3">3</data>
+  <data key="d4">bataille; contra; the state51 conspiracy</data>
+  <data key="d5">27</data>
+  <data key="d6">5855</data>
+</node>
+<node id="DJ Escrow">
+  <data key="d0">4i5UOIADuSXTKilet78GPV</data>
+  <data key="d1">DJ Escrow</data>
+  <data key="d2">experimental hip hop</data>
+  <data key="d3">1</data>
+  <data key="d4">world music</data>
+  <data key="d5">20</data>
+  <data key="d6">4322</data>
+</node>
+<node id="Drug Store Romeos">
+  <data key="d0">7MMjkDVrjxW9iObeZeeejh</data>
+  <data key="d1">Drug Store Romeos</data>
+  <data key="d2">lo-fi indie</data>
+  <data key="d3">1</data>
+  <data key="d4">a fiction records release</data>
+  <data key="d5">46</data>
+  <data key="d6">48492</data>
+</node>
+<node id="Jamie Isaac">
+  <data key="d0">3s2jqlVaDwlRKk3mF7WT2b</data>
+  <data key="d1">Jamie Isaac</data>
+  <data key="d2">indie soul</data>
+  <data key="d3">4</data>
+  <data key="d4">house anxiety; house anxiety and marathon artists; idler records; marathon artists</data>
+  <data key="d5">30</data>
+  <data key="d6">41222</data>
+</node>
+<node id="Katy J Pearson">
+  <data key="d0">6xBsaFua2lgAUlNv8Yh0nQ</data>
+  <data key="d1">Katy J Pearson</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">broadside hacks recordings; heavenly recordings</data>
+  <data key="d5">36</data>
+  <data key="d6">35021</data>
+</node>
+<node id="Mica Levi">
+  <data key="d0">29LOCR81IrdEJjCAeCEOU3</data>
+  <data key="d1">Mica Levi</data>
+  <data key="d2">score; soundtrack</data>
+  <data key="d3">3</data>
+  <data key="d4">invada records; milan records; rough trade</data>
+  <data key="d5">30</data>
+  <data key="d6">51055</data>
+</node>
+<node id="Nova Varnrable">
+  <data key="d0">7eXnw7Cn85i2s9aYNAERcR</data>
+  <data key="d1">Nova Varnrable</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">5 gate temple; nova varnrable; trading places records</data>
+  <data key="d5">30</data>
+  <data key="d6">2488</data>
+</node>
+<node id="Novelist">
+  <data key="d0">4OPTZC24954HYBeHKeoLSc</data>
+  <data key="d1">Novelist</data>
+  <data key="d2">grime; uk grime</data>
+  <data key="d3">21</data>
+  <data key="d4">105; aj tracey; black major x ice drop; bluku music; eone music uk; gudu records; hospital records; independent; joe grind; jus kno recordings; kiwi rekords; mmmyeh; mmmyeh records; motown records uk; novelist; obligated records; obsolete medium; partisan records; teddy music; white peach; xl recordings</data>
+  <data key="d5">41</data>
+  <data key="d6">42521</data>
+</node>
+<node id="Sarah Meth">
+  <data key="d0">2cveuRnx0cbS41GQTBcuRz</data>
+  <data key="d1">Sarah Meth</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">meth music; slow dance recordings</data>
+  <data key="d5">22</data>
+  <data key="d6">6577</data>
+</node>
+<node id="Skepta">
+  <data key="d0">2p1fiYHYiXz9qi0JJyxBzN</data>
+  <data key="d1">Skepta</data>
+  <data key="d2">grime; uk grime</data>
+  <data key="d3">28</data>
+  <data key="d4">3beat; 878; atlantic records; black butter; bluku music; boy better know; cash motto; defected records; eb records; epic records uk; frisco; k trap; mas tiempo; maybe; metalheadz; method; ministry of sound recordings; parlophone uk; polydor records; relentless records; relxvant; skc m29; the chop shop digital; the den; universal island records; universal music division decca records france; warner records; ybnl nation</data>
+  <data key="d5">75</data>
+  <data key="d6">1777186</data>
+</node>
+<node id="Shygirl">
+  <data key="d0">3M3wTTCDwicRubwMyHyEDy</data>
+  <data key="d1">Shygirl</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">9</data>
+  <data key="d4">atlantic records; because music; colorsxstudios; fabric records; one little independent records; pda; polydor records; shygirl; warp records</data>
+  <data key="d5">55</data>
+  <data key="d6">377442</data>
+</node>
+<node id="Rina Sawayama">
+  <data key="d0">2KEqzdPS7M5YwGmiuPTdr5</data>
+  <data key="d1">Rina Sawayama</data>
+  <data key="d2"></data>
+  <data key="d3">12</data>
+  <data key="d4">11 11 media; 88rising music; atlantic records uk; blackened recordings universal music; different recordings; dirty hit; lakeshore records; major arcana giant music; make mine; ninja tune; source music; the vinyl factory</data>
+  <data key="d5">54</data>
+  <data key="d6">1056219</data>
+</node>
+<node id="Finn Keane">
+  <data key="d0">2IRRnJ7AkcLnqMX8jvQqrW</data>
+  <data key="d1">Finn Keane</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">1</data>
+  <data key="d4">pc music</data>
+  <data key="d5">43</data>
+  <data key="d6">46095</data>
+</node>
+<node id="Thy Slaughter">
+  <data key="d0">4tXmMY3u0qbzec7aocHPPt</data>
+  <data key="d1">Thy Slaughter</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">1</data>
+  <data key="d4">pc music</data>
+  <data key="d5">31</data>
+  <data key="d6">14882</data>
+</node>
+<node id="Sam Gellaitry">
+  <data key="d0">07UJz804RJxqNvxFXC3h9H</data>
+  <data key="d1">Sam Gellaitry</data>
+  <data key="d2"></data>
+  <data key="d3">10</data>
+  <data key="d4">ffrr; major recordings; ninja tune; p2022; parlophone uk; rca records since 93; viewfinder; warner records; xl recordings; zealous records</data>
+  <data key="d5">58</data>
+  <data key="d6">212996</data>
+</node>
+<node id="SONIKKU">
+  <data key="d0">31iYRMOM5mUFDxPMMljOZ9</data>
+  <data key="d1">SONIKKU</data>
+  <data key="d2">hyperpop</data>
+  <data key="d3">12</data>
+  <data key="d4">atlantic records; bella union; bella union uk; captured tracks; distant hawaii; elle records; fantastic voyage; independent; lobster theremin; nlv records; steel city dance discs; system records</data>
+  <data key="d5">34</data>
+  <data key="d6">20171</data>
+</node>
+<node id="Broadside Hacks">
+  <data key="d0">3hOsP3tSu2uLW3DKug9U3J</data>
+  <data key="d1">Broadside Hacks</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">broadside hacks recordings; heavenly recordings</data>
+  <data key="d5">3</data>
+  <data key="d6">1031</data>
+</node>
+<node id="H. Hawkline">
+  <data key="d0">7FmM0XgimRvS48CfObh2ht</data>
+  <data key="d1">H. Hawkline</data>
+  <data key="d2"></data>
+  <data key="d3">2</data>
+  <data key="d4">heavenly recordings; turnstile</data>
+  <data key="d5">35</data>
+  <data key="d6">10249</data>
+</node>
+<node id="Max Tundra">
+  <data key="d0">08DpSTsNFBf1PxTm9lwpXb</data>
+  <data key="d1">Max Tundra</data>
+  <data key="d2">idm</data>
+  <data key="d3">1</data>
+  <data key="d4">domino recording</data>
+  <data key="d5">11</data>
+  <data key="d6">5274</data>
+</node>
+<node id="Mura Masa">
+  <data key="d0">5Q81rlcTFh3k6DQJXPdsot</data>
+  <data key="d1">Mura Masa</data>
+  <data key="d2"></data>
+  <data key="d3">17</data>
+  <data key="d4">anchor point; ashtown lane; atlantic records; domino recording; fang; glassnote music; good morning kevin; method; polydor records; pond recordings; promised land recordings; tohji and mura masa; unseelie; vlf records; warner records; zayn; zelig records columbia records</data>
+  <data key="d5">59</data>
+  <data key="d6">727345</data>
+</node>
+<node id="Sampha">
+  <data key="d0">2WoVwexZuODvclzULjPQtm</data>
+  <data key="d1">Sampha</data>
+  <data key="d2">indie soul</data>
+  <data key="d3">6</data>
+  <data key="d4">ninja tune; no format; nowhere music; ramp recordings; relentless records; young</data>
+  <data key="d5">62</data>
+  <data key="d6">912667</data>
+</node>
+<node id="Auntie Flo">
+  <data key="d0">6XYOjW5wxf5V9hwAR58o4d</data>
+  <data key="d1">Auntie Flo</data>
+  <data key="d2"></data>
+  <data key="d3">14</data>
+  <data key="d4">a state of flo; against fascism trax; baaba maal; brownswood recordings; disco halal; highlife; huntleys palmers; makemusic; mule musiq; multi culti; ninja tune; no format; permanent vacation; sofrito</data>
+  <data key="d5">30</data>
+  <data key="d6">21580</data>
+</node>
+<node id="Azekel">
+  <data key="d0">446nYwuXzCKnDwZUu4kGQA</data>
+  <data key="d1">Azekel</data>
+  <data key="d2">trip hop; alté</data>
+  <data key="d3">9</data>
+  <data key="d4">azekel; brandt brauer frick; brownswood recordings; club djembe; colorsxstudios; empawa africa; the north quarter; thunderlightning recordings; thunderlightning recordings under exclusive license to empawa africa</data>
+  <data key="d5">42</data>
+  <data key="d6">23760</data>
+</node>
+<node id="Bert Ussher">
+  <data key="d0">5wrKifbC5rq1uK0Dqsa6uM</data>
+  <data key="d1">Bert Ussher</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">1</data>
+  <data key="d6">152</data>
+</node>
+<node id="GLOR1A">
+  <data key="d0">2Xf1wbdyd9UKB8TFt95LTK</data>
+  <data key="d1">GLOR1A</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">glor1a; independent; rhythm section international; the spectacular empire</data>
+  <data key="d5">17</data>
+  <data key="d6">620</data>
+</node>
+<node id="George Daniel">
+  <data key="d0">52pQ22DziZVOOeL1mCmccT</data>
+  <data key="d1">George Daniel</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">dh2; nice girl world via alternate side and many hats distribution; ninja tune; perpetual novice</data>
+  <data key="d5">38</data>
+  <data key="d6">18510</data>
+</node>
+<node id="Hannah Diamond">
+  <data key="d0">3sXErEOw7EmO6Sj7EgjHdU</data>
+  <data key="d1">Hannah Diamond</data>
+  <data key="d2">hyperpop; bubblegum pop</data>
+  <data key="d3">2</data>
+  <data key="d4">dog show records; pc music</data>
+  <data key="d5">36</data>
+  <data key="d6">116803</data>
+</node>
+<node id="Jelani Blackman">
+  <data key="d0">0fjaIHFhiW9vWX8bncZCOo</data>
+  <data key="d1">Jelani Blackman</data>
+  <data key="d2">grime</data>
+  <data key="d3">11</data>
+  <data key="d4">18 records; colorsxstudios; emi; eone music uk; eone uk; ffrr; helix records; jelani blackman; mnrk music; nettwerk music group; quality time recordings</data>
+  <data key="d5">38</data>
+  <data key="d6">35029</data>
+</node>
+<node id="Jon Hopkins">
+  <data key="d0">7yxi31szvlbwvKq9dYOmFI</data>
+  <data key="d1">Jon Hopkins</data>
+  <data key="d2">idm; ambient</data>
+  <data key="d3">14</data>
+  <data key="d4">atlantic records; domino recording; double six records; future classic; just music; justmusic; k7 records; late night tales; london music stream; mercury classics; mute; parlophone uk; this never happened; umc universal music catalogue</data>
+  <data key="d5">55</data>
+  <data key="d6">588811</data>
+</node>
+<node id="Koreless">
+  <data key="d0">3TsEEdpuuCN1G0dPxV4uOA</data>
+  <data key="d1">Koreless</data>
+  <data key="d2">idm</data>
+  <data key="d3">4</data>
+  <data key="d4">atlantic records; k7 records; vase; young</data>
+  <data key="d5">39</data>
+  <data key="d6">58196</data>
+</node>
+<node id="Louis VI">
+  <data key="d0">7tQDfSGEfN1CJcCmnnN4FV</data>
+  <data key="d1">Louis VI</data>
+  <data key="d2">jazz rap</data>
+  <data key="d3">7</data>
+  <data key="d4">earthpercent; hiya self recordings unlimited; hiyaself recordings unlimited; independent; like water misfit mafia; misfit mafia music; no time zone</data>
+  <data key="d5">28</data>
+  <data key="d6">10226</data>
+</node>
+<node id="Orbury Common">
+  <data key="d0">5mObFLIzPS4XGDTkNVaQrg</data>
+  <data key="d1">Orbury Common</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">orbury common; prah recordings; subexotic records</data>
+  <data key="d5">4</data>
+  <data key="d6">1096</data>
+</node>
+<node id="Pocket">
+  <data key="d0">2VizsdU66dsMBEg8h4Vkzo</data>
+  <data key="d1">Pocket</data>
+  <data key="d2">stutter house; uk garage</data>
+  <data key="d3">9</data>
+  <data key="d4">4xla; alpha pup; bitbird; emi; future classic; hard recs; helix records; mad zoo; signal supply</data>
+  <data key="d5">32</data>
+  <data key="d6">9819</data>
+</node>
+<node id="Stone Club">
+  <data key="d0">4mZVIvEX3d2fHUKqiwJN8r</data>
+  <data key="d1">Stone Club</data>
+  <data key="d2"></data>
+  <data key="d3">0</data>
+  <data key="d4"></data>
+  <data key="d5">1</data>
+  <data key="d6">149</data>
+</node>
+<node id="The 1975">
+  <data key="d0">3mIj9lX2MWuHmhNCA7LSCW</data>
+  <data key="d1">The 1975</data>
+  <data key="d2"></data>
+  <data key="d3">4</data>
+  <data key="d4">atlantic records; dirty hit; polydor records; umc universal music catalogue</data>
+  <data key="d5">77</data>
+  <data key="d6">8518946</data>
+</node>
+<node id="The Japanese House">
+  <data key="d0">3IunaFjvNKj98JW89JYv9u</data>
+  <data key="d1">The Japanese House</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">atlantic records; atlantic records uk; dirty hit</data>
+  <data key="d5">58</data>
+  <data key="d6">824877</data>
+</node>
+<node id="Throwing Snow">
+  <data key="d0">0Qur5LqqAVVunjY2PnjhUp</data>
+  <data key="d1">Throwing Snow</data>
+  <data key="d2">idm</data>
+  <data key="d3">25</data>
+  <data key="d4">ad hoc; alva street; bigo and twigetti; deadbeats; downplay recordings; explicit tongues; fabric records; fly agaric records; gd4ya; ho tep records; houndstooth; hy records; kranglan broadcast; local action; modularfield records; mossend music; mythstery records; night time stories catalogue; one little independent records; oxtail recordings; particle recordings; sneaker social club; snowfall; super; white canoe</data>
+  <data key="d5">35</data>
+  <data key="d6">46611</data>
+</node>
+<node id="Tourist">
+  <data key="d0">2ABBMkcUeM9hdpimo86mo6</data>
+  <data key="d1">Tourist</data>
+  <data key="d2"></data>
+  <data key="d3">5</data>
+  <data key="d4">domino recording; mine recordings; monday records; technicolour; warner records</data>
+  <data key="d5">51</data>
+  <data key="d6">199770</data>
+</node>
+<node id="Two Shell">
+  <data key="d0">4mcHKwboFDmpDBQ4fiOrf3</data>
+  <data key="d1">Two Shell</data>
+  <data key="d2"></data>
+  <data key="d3">3</data>
+  <data key="d4">livity sound recordings; mainframe audio; young</data>
+  <data key="d5">35</data>
+  <data key="d6">42858</data>
+</node>
+<node id="yunè pinku">
+  <data key="d0">2sY4BbYrbvNVgsNzo6HddD</data>
+  <data key="d1">yunè pinku</data>
+  <data key="d2"></data>
+  <data key="d3">12</data>
+  <data key="d4">ambient tweets; apollo records; atlantic records uk; domino recording; fallback; method 808 distributed by gamma; ninja tune; parlophone uk; platoon; rca records label; therapy; yune pinku</data>
+  <data key="d5">40</data>
+  <data key="d6">36277</data>
+</node>
+<node id="Fred again..">
+  <data key="d0">4oLeXFyACqeem2VImYeBFe</data>
+  <data key="d1">Fred again..</data>
+  <data key="d2">stutter house; house; edm</data>
+  <data key="d3">8</data>
+  <data key="d4">atlantic records; atlantic records uk; k7 records; owsla atlantic; promised land recordings; relentless records; text records; young</data>
+  <data key="d5">78</data>
+  <data key="d6">2655625</data>
+</node>
+<node id="Dopamine">
+  <data key="d0">3Edve4VIATi0OZngclQlkN</data>
+  <data key="d1">Dopamine</data>
+  <data key="d2"></data>
+  <data key="d3">10</data>
+  <data key="d4">atlantic records; atlantic records uk; bmg rights management uk; dopamine; intercord; love and other; ministry of sound recordings; not a major; rca records label; relentless records</data>
+  <data key="d5">62</data>
+  <data key="d6">7982</data>
+</node>
+<node id="Richard Norris">
+  <data key="d0">4vJGULmzR15eHf6zn6u29q</data>
+  <data key="d1">Richard Norris</data>
+  <data key="d2">ambient</data>
+  <data key="d3">12</data>
+  <data key="d4">brooklyn fields; elephants on parade; group mind; gryphon records; hudson records; interstate 40 music; merge records; names records; nang; stuffed monkey; the ambient zone; throne of blood</data>
+  <data key="d5">18</data>
+  <data key="d6">2349</data>
+</node>
+<node id="Skream &amp; Benga">
+  <data key="d0">6TaOlqfpegMP5IpO3fZo38</data>
+  <data key="d1">Skream &amp; Benga</data>
+  <data key="d2"></data>
+  <data key="d3">1</data>
+  <data key="d4">atlantic records</data>
+  <data key="d5">36</data>
+  <data key="d6">5836</data>
+</node>
+<node id="THAT KIND">
+  <data key="d0">4zxtCQ4mwZH38FVCSbpqlZ</data>
+  <data key="d1">THAT KIND</data>
+  <data key="d2"></data>
+  <data key="d3">7</data>
+  <data key="d4">asylum atlantic; atlantic records asylum; atlantic records uk; big beat records atlantic; get together records; good; that kind</data>
+  <data key="d5">44</data>
+  <data key="d6">16111</data>
+</node>
+<edge source="King Krule" target="Horsey">
+  <data key="d7">1</data>
+  <data key="d8">untitled recs</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="King Krule" target="Fontaines D.C.">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="King Krule" target="Squarepusher">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="King Krule" target="Nilüfer Yanya">
+  <data key="d7">1</data>
+  <data key="d8">ato records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="King Krule" target="Squid">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="King Krule" target="Mount Kimbie">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="King Krule" target="Burial">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="King Krule" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="King Krule" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="King Krule" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="King Krule" target="A. G. Cook">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="King Krule" target="Novelist">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="Dean Blunt" target="Hype Williams">
+  <data key="d7">2</data>
+  <data key="d8">hype williams; world music</data>
+  <data key="d9">0.4</data>
+</edge>
+<edge source="Dean Blunt" target="Inga Copeland">
+  <data key="d7">2</data>
+  <data key="d8">hype williams; world music</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Dean Blunt" target="black midi">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Dean Blunt" target="Geordie Greep">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Dean Blunt" target="The Crying Nudes">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Dean Blunt" target="Babyfather">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Dean Blunt" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Dean Blunt" target="Mica Levi">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Dean Blunt" target="bar italia">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Dean Blunt" target="Joanne Robertson">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="bar italia" target="The Crying Nudes">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="bar italia" target="Babyfather">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="bar italia" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="bar italia" target="NINA">
+  <data key="d7">1</data>
+  <data key="d8">many hats distribution</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="bar italia" target="Hype Williams">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="bar italia" target="Joanne Robertson">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="bar italia" target="Inga Copeland">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Fontaines D.C." target="Novelist">
+  <data key="d7">2</data>
+  <data key="d8">partisan records; xl recordings</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Fontaines D.C." target="mark william lewis">
+  <data key="d7">1</data>
+  <data key="d8">partisan records</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Fontaines D.C." target="Burial">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Fontaines D.C." target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Wet Leg" target="Max Tundra">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Wet Leg" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Wet Leg" target="Vegyn">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Wet Leg" target="A. G. Cook">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Wet Leg" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Wet Leg" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Wet Leg" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Wolf Alice" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">dirty hit; polydor records</data>
+  <data key="d9">0.4</data>
+</edge>
+<edge source="Wolf Alice" target="Charli XCX">
+  <data key="d7">2</data>
+  <data key="d8">dirty hit; polydor records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Wolf Alice" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">dirty hit</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Wolf Alice" target="Nilüfer Yanya">
+  <data key="d7">1</data>
+  <data key="d8">triple j</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Wolf Alice" target="PinkPantheress">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Wolf Alice" target="Vegyn">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Wolf Alice" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Wolf Alice" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">dirty hit</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Wolf Alice" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Wolf Alice" target="James Blake">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="Wolf Alice" target="Skepta">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0333</data>
+</edge>
+<edge source="FKA twigs" target="Fred again..">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; relentless records; young</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="FKA twigs" target="Skepta">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; parlophone uk; relentless records</data>
+  <data key="d9">0.1034</data>
+</edge>
+<edge source="FKA twigs" target="Koreless">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; young</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="FKA twigs" target="PinkPantheress">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; parlophone uk</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="FKA twigs" target="Sampha">
+  <data key="d7">2</data>
+  <data key="d8">relentless records; young</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="FKA twigs" target="Dopamine">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; relentless records</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="FKA twigs" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; parlophone uk</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="FKA twigs" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="FKA twigs" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="FKA twigs" target="Two Shell">
+  <data key="d7">1</data>
+  <data key="d8">young</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="FKA twigs" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="FKA twigs" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="FKA twigs" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">parlophone uk</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="FKA twigs" target="A. G. Cook">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="FKA twigs" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="FKA twigs" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">parlophone uk</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="FKA twigs" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="FKA twigs" target="Charli XCX">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="A. G. Cook" target="Charli XCX">
+  <data key="d7">4</data>
+  <data key="d8">atlantic records; atlantic records uk; pc music; perpetual novice</data>
+  <data key="d9">0.129</data>
+</edge>
+<edge source="A. G. Cook" target="The Japanese House">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.1538</data>
+</edge>
+<edge source="A. G. Cook" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="A. G. Cook" target="Shygirl">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; warp records</data>
+  <data key="d9">0.1053</data>
+</edge>
+<edge source="A. G. Cook" target="Dopamine">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="A. G. Cook" target="yunè pinku">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records uk; domino recording</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="A. G. Cook" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; domino recording</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="A. G. Cook" target="Mura Masa">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; domino recording</data>
+  <data key="d9">0.0741</data>
+</edge>
+<edge source="A. G. Cook" target="Finn Keane">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="A. G. Cook" target="Thy Slaughter">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="A. G. Cook" target="Max Tundra">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="A. G. Cook" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="A. G. Cook" target="Hannah Diamond">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="A. G. Cook" target="TYSON">
+  <data key="d7">1</data>
+  <data key="d8">luckyme</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="A. G. Cook" target="Squarepusher">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="A. G. Cook" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">perpetual novice</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="A. G. Cook" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="A. G. Cook" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="A. G. Cook" target="Iglooghost">
+  <data key="d7">1</data>
+  <data key="d8">luckyme</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="A. G. Cook" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="A. G. Cook" target="PinkPantheress">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="A. G. Cook" target="Squid">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="A. G. Cook" target="Mount Kimbie">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="A. G. Cook" target="Vegyn">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="A. G. Cook" target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="A. G. Cook" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="A. G. Cook" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="A. G. Cook" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="A. G. Cook" target="Skepta">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0256</data>
+</edge>
+<edge source="SOPHIE" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">bella union</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="SOPHIE" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">huntleys palmers</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="Charli XCX" target="The Japanese House">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; atlantic records uk; dirty hit</data>
+  <data key="d9">0.1304</data>
+</edge>
+<edge source="Charli XCX" target="The 1975">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; dirty hit; polydor records</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Charli XCX" target="Hannah Diamond">
+  <data key="d7">2</data>
+  <data key="d8">dog show records; pc music</data>
+  <data key="d9">0.087</data>
+</edge>
+<edge source="Charli XCX" target="PinkPantheress">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0741</data>
+</edge>
+<edge source="Charli XCX" target="Vegyn">
+  <data key="d7">2</data>
+  <data key="d8">parlophone france; polydor records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Charli XCX" target="THAT KIND">
+  <data key="d7">2</data>
+  <data key="d8">asylum atlantic; atlantic records uk</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Charli XCX" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.069</data>
+</edge>
+<edge source="Charli XCX" target="Shygirl">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Charli XCX" target="Dopamine">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.0645</data>
+</edge>
+<edge source="Charli XCX" target="Rina Sawayama">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records uk; dirty hit</data>
+  <data key="d9">0.0606</data>
+</edge>
+<edge source="Charli XCX" target="Mura Masa">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Charli XCX" target="Skepta">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0408</data>
+</edge>
+<edge source="Charli XCX" target="Finn Keane">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Charli XCX" target="Thy Slaughter">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Charli XCX" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Charli XCX" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">perpetual novice</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="Charli XCX" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="Charli XCX" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0294</data>
+</edge>
+<edge source="Charli XCX" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0294</data>
+</edge>
+<edge source="Charli XCX" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0278</data>
+</edge>
+<edge source="Charli XCX" target="James Blake">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0244</data>
+</edge>
+<edge source="PinkPantheress" target="Skepta">
+  <data key="d7">4</data>
+  <data key="d8">atlantic records; parlophone uk; polydor records; warner records</data>
+  <data key="d9">0.1333</data>
+</edge>
+<edge source="PinkPantheress" target="Mura Masa">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; polydor records; warner records</data>
+  <data key="d9">0.15</data>
+</edge>
+<edge source="PinkPantheress" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="PinkPantheress" target="Shygirl">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.1538</data>
+</edge>
+<edge source="PinkPantheress" target="Sam Gellaitry">
+  <data key="d7">2</data>
+  <data key="d8">parlophone uk; warner records</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="PinkPantheress" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; parlophone uk</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="PinkPantheress" target="James Blake">
+  <data key="d7">2</data>
+  <data key="d8">polydor records; warner records</data>
+  <data key="d9">0.087</data>
+</edge>
+<edge source="PinkPantheress" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="PinkPantheress" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="PinkPantheress" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="PinkPantheress" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="PinkPantheress" target="Vegyn">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="PinkPantheress" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="PinkPantheress" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="PinkPantheress" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">source music</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="PinkPantheress" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="PinkPantheress" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">parlophone uk</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Mount Kimbie" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">future classic; k7 records</data>
+  <data key="d9">0.1053</data>
+</edge>
+<edge source="Mount Kimbie" target="James Blake">
+  <data key="d7">2</data>
+  <data key="d8">hotflush recordings; method</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Mount Kimbie" target="Black Country New Road">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Mount Kimbie" target="Floating Points">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mount Kimbie" target="Squarepusher">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mount Kimbie" target="Nilüfer Yanya">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mount Kimbie" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mount Kimbie" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">k7 records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mount Kimbie" target="Squid">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Mount Kimbie" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Mount Kimbie" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">k7 records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Mount Kimbie" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Mount Kimbie" target="Pocket">
+  <data key="d7">1</data>
+  <data key="d8">future classic</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Mount Kimbie" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Mount Kimbie" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Mount Kimbie" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Mount Kimbie" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Mount Kimbie" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Mount Kimbie" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">method</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Mount Kimbie" target="Skepta">
+  <data key="d7">1</data>
+  <data key="d8">method</data>
+  <data key="d9">0.0294</data>
+</edge>
+<edge source="Vegyn" target="Mura Masa">
+  <data key="d7">2</data>
+  <data key="d8">domino recording; polydor records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Vegyn" target="Max Tundra">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Vegyn" target="Squarepusher">
+  <data key="d7">1</data>
+  <data key="d8">ed banger records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Vegyn" target="Yawning Portal">
+  <data key="d7">1</data>
+  <data key="d8">plz make it ruins</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Vegyn" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Vegyn" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Vegyn" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Vegyn" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Vegyn" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Vegyn" target="James Blake">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.04</data>
+</edge>
+<edge source="Vegyn" target="Skepta">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0294</data>
+</edge>
+<edge source="mark william lewis" target="Sokora Violetov">
+  <data key="d7">1</data>
+  <data key="d8">mark william lewis</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="mark william lewis" target="NINA">
+  <data key="d7">1</data>
+  <data key="d8">mark william lewis</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="mark william lewis" target="Novelist">
+  <data key="d7">1</data>
+  <data key="d8">partisan records</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="fakemink" target="ok">
+  <data key="d7">1</data>
+  <data key="d8">artist partner group</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Rico Ace" target="EsDeeKid">
+  <data key="d7">2</data>
+  <data key="d8">6441124 records dk; stay peckish records</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Iglooghost" target="TYSON">
+  <data key="d7">1</data>
+  <data key="d8">luckyme</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Iglooghost" target="BABii">
+  <data key="d7">1</data>
+  <data key="d8">gloo</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Iglooghost" target="Pholo">
+  <data key="d7">1</data>
+  <data key="d8">gloo</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="BABii" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">one little independent records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="BABii" target="Pholo">
+  <data key="d7">1</data>
+  <data key="d8">gloo</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="BABii" target="Throwing Snow">
+  <data key="d7">1</data>
+  <data key="d8">one little independent records</data>
+  <data key="d9">0.0323</data>
+</edge>
+<edge source="Burial" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">text records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Burial" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">fabric records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Burial" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Burial" target="Novelist">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.037</data>
+</edge>
+<edge source="Burial" target="Throwing Snow">
+  <data key="d7">1</data>
+  <data key="d8">fabric records</data>
+  <data key="d9">0.0323</data>
+</edge>
+<edge source="Floating Points" target="Black Country New Road">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Floating Points" target="Nilüfer Yanya">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Floating Points" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Floating Points" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Floating Points" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Floating Points" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Floating Points" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Floating Points" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Floating Points" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">late night tales</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Squarepusher" target="Squid">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Squarepusher" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Squarepusher" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Squid" target="Orbury Common">
+  <data key="d7">1</data>
+  <data key="d8">prah recordings</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Squid" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Squid" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="black midi" target="Geordie Greep">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="black midi" target="Mica Levi">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Black Country New Road" target="Nilüfer Yanya">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Black Country New Road" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Black Country New Road" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Black Country New Road" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Black Country New Road" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Black Country New Road" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Black Country New Road" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Geordie Greep" target="Mica Levi">
+  <data key="d7">1</data>
+  <data key="d8">rough trade</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="NINA" target="Sokora Violetov">
+  <data key="d7">1</data>
+  <data key="d8">mark william lewis</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="The Crying Nudes" target="Babyfather">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="The Crying Nudes" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="The Crying Nudes" target="Hype Williams">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="The Crying Nudes" target="Joanne Robertson">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="The Crying Nudes" target="Inga Copeland">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Joanne Robertson" target="Babyfather">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Joanne Robertson" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Joanne Robertson" target="Hype Williams">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Joanne Robertson" target="Inga Copeland">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Inga Copeland" target="Hype Williams">
+  <data key="d7">2</data>
+  <data key="d8">hype williams; world music</data>
+  <data key="d9">0.4</data>
+</edge>
+<edge source="Inga Copeland" target="Babyfather">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Inga Copeland" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Babyfather" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Babyfather" target="Hype Williams">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Hype Williams" target="DJ Escrow">
+  <data key="d7">1</data>
+  <data key="d8">world music</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Hype Williams" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">big dada</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Palmistry" target="GAIKA">
+  <data key="d7">1</data>
+  <data key="d8">mixpak records</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="GAIKA" target="GLOR1A">
+  <data key="d7">1</data>
+  <data key="d8">the spectacular empire</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="GAIKA" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">warp records</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="James Blake" target="Mura Masa">
+  <data key="d7">3</data>
+  <data key="d8">method; polydor records; warner records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="James Blake" target="Skepta">
+  <data key="d7">3</data>
+  <data key="d8">method; polydor records; warner records</data>
+  <data key="d9">0.0682</data>
+</edge>
+<edge source="James Blake" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.0455</data>
+</edge>
+<edge source="James Blake" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="James Blake" target="Shygirl">
+  <data key="d7">1</data>
+  <data key="d8">polydor records</data>
+  <data key="d9">0.037</data>
+</edge>
+<edge source="James Blake" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.0357</data>
+</edge>
+<edge source="Nilüfer Yanya" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Nilüfer Yanya" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Nilüfer Yanya" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Nilüfer Yanya" target="Rina Sawayama">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Nilüfer Yanya" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Nilüfer Yanya" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Katy J Pearson" target="Broadside Hacks">
+  <data key="d7">2</data>
+  <data key="d8">broadside hacks recordings; heavenly recordings</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Katy J Pearson" target="H. Hawkline">
+  <data key="d7">1</data>
+  <data key="d8">heavenly recordings</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Novelist" target="GLOR1A">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.0417</data>
+</edge>
+<edge source="Novelist" target="Louis VI">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.037</data>
+</edge>
+<edge source="Novelist" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">xl recordings</data>
+  <data key="d9">0.0333</data>
+</edge>
+<edge source="Novelist" target="Jelani Blackman">
+  <data key="d7">1</data>
+  <data key="d8">eone music uk</data>
+  <data key="d9">0.0323</data>
+</edge>
+<edge source="Novelist" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.0312</data>
+</edge>
+<edge source="Novelist" target="Skepta">
+  <data key="d7">1</data>
+  <data key="d8">bluku music</data>
+  <data key="d9">0.0208</data>
+</edge>
+<edge source="Skepta" target="Mura Masa">
+  <data key="d7">4</data>
+  <data key="d8">atlantic records; method; polydor records; warner records</data>
+  <data key="d9">0.0976</data>
+</edge>
+<edge source="Skepta" target="Dopamine">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; ministry of sound recordings; relentless records</data>
+  <data key="d9">0.0857</data>
+</edge>
+<edge source="Skepta" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Skepta" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; relentless records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Skepta" target="Shygirl">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0571</data>
+</edge>
+<edge source="Skepta" target="Sam Gellaitry">
+  <data key="d7">2</data>
+  <data key="d8">parlophone uk; warner records</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Skepta" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; parlophone uk</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Skepta" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0357</data>
+</edge>
+<edge source="Skepta" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0333</data>
+</edge>
+<edge source="Skepta" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0323</data>
+</edge>
+<edge source="Skepta" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.0312</data>
+</edge>
+<edge source="Skepta" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">relentless records</data>
+  <data key="d9">0.0303</data>
+</edge>
+<edge source="Skepta" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0256</data>
+</edge>
+<edge source="Skepta" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">parlophone uk</data>
+  <data key="d9">0.0256</data>
+</edge>
+<edge source="Shygirl" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.1818</data>
+</edge>
+<edge source="Shygirl" target="Mura Masa">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Shygirl" target="Throwing Snow">
+  <data key="d7">2</data>
+  <data key="d8">fabric records; one little independent records</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Shygirl" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Shygirl" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Shygirl" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Shygirl" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Shygirl" target="Azekel">
+  <data key="d7">1</data>
+  <data key="d8">colorsxstudios</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Shygirl" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Shygirl" target="Jelani Blackman">
+  <data key="d7">1</data>
+  <data key="d8">colorsxstudios</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Shygirl" target="SONIKKU">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Shygirl" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0455</data>
+</edge>
+<edge source="Rina Sawayama" target="The Japanese House">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records uk; dirty hit</data>
+  <data key="d9">0.1538</data>
+</edge>
+<edge source="Rina Sawayama" target="yunè pinku">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records uk; ninja tune</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="Rina Sawayama" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Rina Sawayama" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">dirty hit</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Rina Sawayama" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Rina Sawayama" target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Rina Sawayama" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Rina Sawayama" target="Sam Gellaitry">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="Rina Sawayama" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="Rina Sawayama" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.04</data>
+</edge>
+<edge source="Finn Keane" target="Thy Slaughter">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">1.0</data>
+</edge>
+<edge source="Finn Keane" target="Hannah Diamond">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Thy Slaughter" target="Hannah Diamond">
+  <data key="d7">1</data>
+  <data key="d8">pc music</data>
+  <data key="d9">0.5</data>
+</edge>
+<edge source="Sam Gellaitry" target="yunè pinku">
+  <data key="d7">2</data>
+  <data key="d8">ninja tune; parlophone uk</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Sam Gellaitry" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="Sam Gellaitry" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Sam Gellaitry" target="Sampha">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Sam Gellaitry" target="Jelani Blackman">
+  <data key="d7">1</data>
+  <data key="d8">ffrr</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Sam Gellaitry" target="Auntie Flo">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Sam Gellaitry" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">parlophone uk</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Sam Gellaitry" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">warner records</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="SONIKKU" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="SONIKKU" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="SONIKKU" target="GLOR1A">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="SONIKKU" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="SONIKKU" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="SONIKKU" target="Louis VI">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="SONIKKU" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="SONIKKU" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0476</data>
+</edge>
+<edge source="SONIKKU" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.04</data>
+</edge>
+<edge source="SONIKKU" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0357</data>
+</edge>
+<edge source="Broadside Hacks" target="H. Hawkline">
+  <data key="d7">1</data>
+  <data key="d8">heavenly recordings</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Max Tundra" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Max Tundra" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Max Tundra" target="Jon Hopkins">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Max Tundra" target="Mura Masa">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Mura Masa" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; polydor records</data>
+  <data key="d9">0.1053</data>
+</edge>
+<edge source="Mura Masa" target="Tourist">
+  <data key="d7">2</data>
+  <data key="d8">domino recording; warner records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Mura Masa" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; promised land recordings</data>
+  <data key="d9">0.087</data>
+</edge>
+<edge source="Mura Masa" target="Jon Hopkins">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; domino recording</data>
+  <data key="d9">0.069</data>
+</edge>
+<edge source="Mura Masa" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Mura Masa" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Mura Masa" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.05</data>
+</edge>
+<edge source="Mura Masa" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0385</data>
+</edge>
+<edge source="Mura Masa" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0357</data>
+</edge>
+<edge source="Sampha" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">relentless records; young</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Sampha" target="Auntie Flo">
+  <data key="d7">2</data>
+  <data key="d8">ninja tune; no format</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Sampha" target="Two Shell">
+  <data key="d7">1</data>
+  <data key="d8">young</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Sampha" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Sampha" target="Koreless">
+  <data key="d7">1</data>
+  <data key="d8">young</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Sampha" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">relentless records</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Sampha" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Auntie Flo" target="George Daniel">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0588</data>
+</edge>
+<edge source="Auntie Flo" target="Azekel">
+  <data key="d7">1</data>
+  <data key="d8">brownswood recordings</data>
+  <data key="d9">0.0455</data>
+</edge>
+<edge source="Auntie Flo" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.04</data>
+</edge>
+<edge source="Azekel" target="Jelani Blackman">
+  <data key="d7">1</data>
+  <data key="d8">colorsxstudios</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="GLOR1A" target="Louis VI">
+  <data key="d7">1</data>
+  <data key="d8">independent</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="George Daniel" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">ninja tune</data>
+  <data key="d9">0.0667</data>
+</edge>
+<edge source="Jelani Blackman" target="Pocket">
+  <data key="d7">2</data>
+  <data key="d8">emi; helix records</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="Jon Hopkins" target="Koreless">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; k7 records</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Jon Hopkins" target="The 1975">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; umc universal music catalogue</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Jon Hopkins" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; k7 records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Jon Hopkins" target="yunè pinku">
+  <data key="d7">2</data>
+  <data key="d8">domino recording; parlophone uk</data>
+  <data key="d9">0.0833</data>
+</edge>
+<edge source="Jon Hopkins" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Jon Hopkins" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Jon Hopkins" target="Tourist">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="Jon Hopkins" target="Pocket">
+  <data key="d7">1</data>
+  <data key="d8">future classic</data>
+  <data key="d9">0.0455</data>
+</edge>
+<edge source="Jon Hopkins" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0435</data>
+</edge>
+<edge source="Koreless" target="Fred again..">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; k7 records; young</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="Koreless" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="Koreless" target="The Japanese House">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Koreless" target="Two Shell">
+  <data key="d7">1</data>
+  <data key="d8">young</data>
+  <data key="d9">0.1667</data>
+</edge>
+<edge source="Koreless" target="The 1975">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1429</data>
+</edge>
+<edge source="Koreless" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="The 1975" target="The Japanese House">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; dirty hit</data>
+  <data key="d9">0.4</data>
+</edge>
+<edge source="The 1975" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.25</data>
+</edge>
+<edge source="The 1975" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0909</data>
+</edge>
+<edge source="The 1975" target="Dopamine">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.0769</data>
+</edge>
+<edge source="The Japanese House" target="Fred again..">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.2222</data>
+</edge>
+<edge source="The Japanese House" target="Dopamine">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records; atlantic records uk</data>
+  <data key="d9">0.1818</data>
+</edge>
+<edge source="The Japanese House" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.3333</data>
+</edge>
+<edge source="The Japanese House" target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.1111</data>
+</edge>
+<edge source="The Japanese House" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Tourist" target="yunè pinku">
+  <data key="d7">1</data>
+  <data key="d8">domino recording</data>
+  <data key="d9">0.0625</data>
+</edge>
+<edge source="Two Shell" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">young</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="yunè pinku" target="Dopamine">
+  <data key="d7">2</data>
+  <data key="d8">atlantic records uk; rca records label</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="yunè pinku" target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0556</data>
+</edge>
+<edge source="yunè pinku" target="Fred again..">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0526</data>
+</edge>
+<edge source="Fred again.." target="Dopamine">
+  <data key="d7">3</data>
+  <data key="d8">atlantic records; atlantic records uk; relentless records</data>
+  <data key="d9">0.2</data>
+</edge>
+<edge source="Fred again.." target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.125</data>
+</edge>
+<edge source="Fred again.." target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0714</data>
+</edge>
+<edge source="Dopamine" target="Skream &amp; Benga">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records</data>
+  <data key="d9">0.1</data>
+</edge>
+<edge source="Dopamine" target="THAT KIND">
+  <data key="d7">1</data>
+  <data key="d8">atlantic records uk</data>
+  <data key="d9">0.0625</data>
+</edge>
+</graph></graphml>
